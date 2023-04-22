@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="184"
+   height="45"
+   id="svg2830"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="15.png">
+  <defs
+     id="defs2832">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2838" />
+    <inkscape:perspective
+       id="perspective3637"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3651"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3665"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3679"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3693"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3720"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3734"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3748"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3762"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3776"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4027"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <filter
+       inkscape:collect="always"
+       id="filter3687"
+       x="-0.11219676"
+       width="1.2243935"
+       y="-0.11423671"
+       height="1.2284734">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.8699461"
+         id="feGaussianBlur3689" />
+    </filter>
+    <inkscape:perspective
+       id="perspective2947"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2961"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2975"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2989"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3028"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3042"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3056"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3070"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="26.050224"
+     inkscape:cy="-10.959397"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1024"
+     inkscape:window-height="712"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2835">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1007.3622)">
+    <rect
+       style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834000000005;stroke-dasharray:none"
+       id="rect2840"
+       width="184.85791"
+       height="44.95179"
+       x="-0.85170597"
+       y="1007.5872" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -82.327432,2059.7244 287.388392,-0.5051"
+       id="path3797"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:#1f1c24;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none"
+       d="m -111.44594,940.19237 c -3.39627,0 -6.15199,2.7557 -6.15199,6.1519 0,3.3963 2.75572,6.152 6.15199,6.152 1.55993,0 2.98988,-0.5832 4.07274,-1.5433 0.24518,-0.077 0.55944,-0.159 0.76095,-0.1822 0.33862,-0.039 0.69011,0 1.07178,0.1179 l 0.11789,0.032 c 0.76319,0.9548 1.93222,1.5755 3.24748,1.5755 1.05263,0 2.01365,-0.3935 2.743743,-1.0396 0.21321,-0.1038 0.54155,-0.2229 0.73952,-0.268 0.29763,-0.068 0.61404,-0.063 0.9646,0.011 l 0.10718,0.021 c 0.57248,0.6692 1.41847,1.0932 2.36862,1.0932 1.72205,0 3.11886,-1.3861 3.11886,-3.1081 0,-1.722 -1.39681,-3.1189 -3.11886,-3.1189 -0.83245,0 -1.57503,0.3264 -2.13283,0.8574 -0.39681,-0.069 -0.72631,-0.2391 -1.11465,-0.5573 -10e-4,0 0.001,-0.01 0,-0.011 -0.69847,-1.313 -2.084893,-2.1972 -3.676183,-2.1972 -0.74747,0 -1.44041,0.2007 -2.04709,0.5466 -0.59213,-0.056 -0.98351,-0.2548 -1.56479,-0.7824 -0.93552,-2.2024 -3.11516,-3.7512 -5.65896,-3.7512 z"
+       id="path3826" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 208.5965,2065.7853 162.63456,1.0102"
+       id="path3863"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 245.80357,2015.1708 9.46429,4.2857"
+       id="path3897"
+       inkscape:connector-type="polyline"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.66071,2051.3315 8.69771,0.1155"
+       id="path3899"
+       inkscape:connector-type="polyline"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 256.63777,2050.8392 4.74036,-0.3157"
+       id="path3903"
+       inkscape:connector-type="polyline"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 263.78243,2025.9675 4.79822,0.8839"
+       id="path3918"
+       inkscape:connector-type="polyline"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 241.24789,2021.6741 2.39911,10.1015"
+       id="path3920"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.03572,2022.1798 0.80357,9.375"
+       id="path3922"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260.40179,2021.5548 -7.05357,8.5714"
+       id="path3924"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 255.35714,2022.9833 7.94643,4.5982"
+       id="path3926"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 231.65179,2045.1708 1.16071,-5.0446"
+       id="path3928"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 233.92858,2032.6262 7.5,-0.4464"
+       id="path3930"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 251.51786,2034.144 0.75893,6.5179"
+       id="path3932"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 257.72322,2046.1976 -1.11607,-4.1518"
+       id="path3934"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 254.86607,2032.7601 5.75893,-0.5803"
+       id="path3936"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 269.55357,2038.6976 0.98214,4.8661"
+       id="path3938"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 260.625,2025.7958 -2.00893,4.1072"
+       id="path3940"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 258.70536,2038.8315 7.05357,1.3393"
+       id="path3942"
+       inkscape:connector-type="polyline" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 267.36607,2031.778 0.49107,-5.8929"
+       id="path3944"
+       inkscape:connector-type="polyline" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Volmu.png"
+       width="18.332483"
+       height="18.332483"
+       id="image3960"
+       x="324.2767"
+       y="1136.0665" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Playn.png"
+       width="31.918779"
+       height="31.918779"
+       id="image3962"
+       x="173.08557"
+       y="1118.9197" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Puasen.png"
+       width="20.302027"
+       height="20.302027"
+       id="image3964"
+       x="207.93585"
+       y="1131.0411" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopn.png"
+       width="20.807102"
+       height="20.807102"
+       id="image3966"
+       x="246.58775"
+       y="1125.6481" />
+    <path
+       style="fill:#1f1c24;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none"
+       d="m -58.152587,946.18787 c -1.66549,-0.5822 -2.23403,-2.6877 -1.06399,-3.9404 0.74681,-0.7996 1.89647,-1.0166 2.83764,-0.5358 0.80067,0.4091 1.2562,1.0471 1.32303,1.853 0.0995,1.1997 -0.34345,1.9999 -1.37218,2.4789 -0.6661,0.3101 -1.1372,0.3496 -1.7245,0.1443 l 0,0 z"
+       id="path3970" />
+    <image
+       y="65.817924"
+       x="946.84912"
+       id="image3985"
+       height="5.4039154"
+       width="5.4039154"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openn.png"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#170b28;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none"
+       id="rect2867"
+       width="50.263977"
+       height="18.57143"
+       x="-50.263977"
+       y="893.07648" />
+    <path
+       style="fill:#440055;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none"
+       d="m -50.200356,902.37496 0,-9.1848 25.031057,0 25.03105747,0 0,9.1848 0,9.1848 -25.03105747,0 -25.031057,0 0,-9.1848 z"
+       id="path2869" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Playmd.png"
+       width="9.4487419"
+       height="9.4487419"
+       id="image2875"
+       x="-26.437437"
+       y="896.23956" />
+    <image
+       y="896.50519"
+       x="-16.304775"
+       id="image2877"
+       height="9.4487419"
+       width="9.4487419"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Playmd.png" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6c00d4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none;filter:url(#filter3687)"
+       id="path2883"
+       sodipodi:cx="-378.57144"
+       sodipodi:cy="92.5"
+       sodipodi:rx="20"
+       sodipodi:ry="19.642857"
+       d="m -358.57144,92.5 a 20,19.642857 0 1 1 -40,0 20,19.642857 0 1 1 40,0 z"
+       transform="matrix(0.91119799,0,0,0.91119799,207.70752,1043.2906)" />
+    <image
+       y="1118.9197"
+       x="173.08557"
+       id="image3691"
+       height="31.918779"
+       width="31.918779"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Playn.png" />
+    <image
+       y="1164.6127"
+       x="122.22157"
+       id="image3693"
+       height="20.302027"
+       width="20.302027"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Puasen.png" />
+    <image
+       y="1147.0768"
+       x="145.87346"
+       id="image3696"
+       height="20.807102"
+       width="20.807102"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopn.png" />
+    <image
+       transform="matrix(0,1,-1,0,0,0)"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openn.png"
+       width="19.684912"
+       height="19.684912"
+       id="image3698"
+       x="1134.245"
+       y="-323.53885" />
+    <image
+       y="1136.0665"
+       x="324.2767"
+       id="image3700"
+       height="18.332483"
+       width="18.332483"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Volmu.png" />
+    <image
+       y="-323.53885"
+       x="1134.245"
+       id="image3702"
+       height="19.684912"
+       width="19.684912"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openn.png"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <path
+       transform="matrix(0.63474044,0,0,0.63474044,131.99302,1072.677)"
+       d="m -358.57144,92.5 a 20,19.642857 0 1 1 -40,0 20,19.642857 0 1 1 40,0 z"
+       sodipodi:ry="19.642857"
+       sodipodi:rx="20"
+       sodipodi:cy="92.5"
+       sodipodi:cx="-378.57144"
+       id="path2885"
+       style="fill:#6c00d4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none;filter:url(#filter3687)"
+       sodipodi:type="arc" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#6c00d4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none;filter:url(#filter3687)"
+       id="path2887"
+       sodipodi:cx="-378.57144"
+       sodipodi:cy="92.5"
+       sodipodi:rx="20"
+       sodipodi:ry="19.642857"
+       d="m -358.57144,92.5 a 20,19.642857 0 1 1 -40,0 20,19.642857 0 1 1 40,0 z"
+       transform="matrix(0.48738465,0,0,0.48738465,94.74274,1088.9346)" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Puasen.png"
+       width="20.302027"
+       height="20.302027"
+       id="image2889"
+       x="110.0787"
+       y="1151.0414" />
+    <image
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopn.png"
+       width="20.807102"
+       height="20.807102"
+       id="image2891"
+       x="190.87346"
+       y="1150.6482" />
+    <image
+       y="1112.005"
+       x="-154.35715"
+       id="image2949"
+       height="31.428572"
+       width="31.428572"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/PLaymm.png" />
+    <image
+       y="1122.0051"
+       x="-118.64286"
+       id="image2963"
+       height="20"
+       width="20"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Pausemm.png" />
+    <image
+       y="-243.57143"
+       x="1090.2194"
+       id="image2977"
+       height="24.285715"
+       width="24.285715"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openmm.png"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <image
+       y="1122.7194"
+       x="-101.5"
+       id="image2991"
+       height="22.142857"
+       width="22.142857"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopmm.png" />
+    <image
+       y="1128.184"
+       x="206.50728"
+       id="image2995"
+       height="20.302027"
+       width="20.302027"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Puasen.png" />
+    <path
+       transform="matrix(0.48738465,0,0,0.48738465,166.17131,1088.9346)"
+       d="m -358.57144,92.5 a 20,19.642857 0 1 1 -40,0 20,19.642857 0 1 1 40,0 z"
+       sodipodi:ry="19.642857"
+       sodipodi:rx="20"
+       sodipodi:cy="92.5"
+       sodipodi:cx="-378.57144"
+       id="path3014"
+       style="fill:#6c00d4;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:0.70348834;stroke-dasharray:none;filter:url(#filter3687)"
+       sodipodi:type="arc" />
+    <image
+       transform="matrix(0,1,-1,0,0,0)"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openmm.png"
+       width="21.428572"
+       height="21.428572"
+       id="image3016"
+       x="1123.4337"
+       y="7.9285736" />
+    <image
+       y="1086.3623"
+       x="151.58775"
+       id="image3018"
+       height="20.807102"
+       width="20.807102"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopn.png" />
+    <image
+       y="1027.8622"
+       x="55"
+       id="image3030"
+       height="19"
+       width="19"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Stopmd.png" />
+    <image
+       y="1026.8622"
+       x="38.5"
+       id="image3044"
+       height="19"
+       width="19"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Puasemd.png" />
+    <image
+       y="1016.8622"
+       x="6.5"
+       id="image3058"
+       height="30.5"
+       width="30.5"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Playmd.png" />
+    <image
+       y="-111.5"
+       x="1028.3622"
+       id="image3072"
+       height="19"
+       width="19"
+       xlink:href="file:///D:/My%20APPs/My%20Forms/Gagets/Office/Images/Player%20buttons/Openmd.png"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>
